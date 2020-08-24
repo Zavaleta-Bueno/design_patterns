@@ -1,4 +1,4 @@
-package objetos.singleton;
+package creacionales.objetos.singleton;
 
 
 import javax.swing.JFrame;
