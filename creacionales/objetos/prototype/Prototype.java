@@ -1,4 +1,4 @@
-package creacionales.clases;
+package creacionales.objetos.prototype;
 
 
 import javax.swing.JFrame;

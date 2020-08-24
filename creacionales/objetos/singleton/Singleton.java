@@ -1,4 +1,4 @@
-package design.singleton;
+package objetos.singleton;
 
 
 import javax.swing.JFrame;
